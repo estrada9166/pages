@@ -106,10 +106,10 @@ Create a PR with the page you want to add.
 * [Machine Learning is Fun! – Adam Geitgey – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.294w179qt)
 * https://www.coursera.org/learn/machine-learning
 ---
-### Diseño
+### Design
 * [Sketch - Professional Digital Design for Mac](https://www.sketchapp.com/)
 ---
-### Correos
+### Emails
 * [Postmark – Unmatched email delivery & troubleshooting](https://postmarkapp.com/)
 * [Mailtrap.io — Fake smtp testing server. Dummy smtp email testing](https://mailtrap.io/)
 * https://www.inkbrush.com/
