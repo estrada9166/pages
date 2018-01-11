@@ -2,11 +2,7 @@
 
 ## Main Idea
 The idea is to save diffent web pages that can be useful for different reasons.
-
-## Contribute
-Create a PR with the page you want to add.
-
----
+ 
 ### Git
 * [Git - ¿Qué es una rama?](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-%C2%BFQu%C3%A9-es-una-rama%3F)
 * [Git y Github Make it Real.camp](https://blog.makeitreal.camp/git-y-github/)
